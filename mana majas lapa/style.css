@@ -1,0 +1,13 @@
+.Lielais{
+    display: flex;
+    justify-content: center;
+    gap: 26px;
+}
+.Logo {
+    display: flex;
+    justify-content: space-evenly; 
+    align-items: center;
+}
+.Telefona-numurs{
+    color: rgb(201, 22, 201);
+}
